@@ -1,1 +1,1 @@
-test git hub connection
+test github connection
